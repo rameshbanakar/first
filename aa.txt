@@ -1,6 +1,9 @@
 i am adding this in the remote respotory
 <html>
-<!-- style tag add here-->
+<style>
+    h{color:red font:300 }
+    p{color:blue font:200}
+</style>
 <h1>Good morning</h1>
 <p> hellow frnds </p>
 </html>

@@ -3,6 +3,8 @@ i am adding this in the remote respotory
 <style>
     h{color:red font:300 }
     p{color:blue font:200}
+    h2{color: red; font-size:200px}
+    h3{color:yellow; font-style:italic}
 </style>
 <h1>Good morning</h1>
 <h2>h2 tag added</h2>

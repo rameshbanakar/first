@@ -5,5 +5,8 @@ i am adding this in the remote respotory
     p{color:blue font:200}
 </style>
 <h1>Good morning</h1>
+<h2>h2 tag added</h2>
+<h3>h3 tag added</h3>
 <p> hellow frnds </p>
+
 </html>
